@@ -3,6 +3,10 @@
 ## Overview
 The **Cuestionario de Índice de Inclusión Educativa de Nivel Universitario (CIE-U)** is a psychometric instrument designed to measure levels of educational inclusion in higher education institutions. Based on the *Index for Inclusion* (Booth & Ainscow, 2015), this tool was adapted for Latin American contexts with the support of UNESCO. The CIE-U evaluates six key dimensions of inclusion in universities, promoting inclusive cultures and equitable learning environments.
 
+## Authors
+This project was co-created by Dr. Viviane Yvette Bolaños Gramajo and Dr. Ligia Oviedo.  
+We share this work openly to support learning, collaboration, and responsible innovation.
+
 ## Key Features
 - **Objective:** Measure educational inclusion at the university level.
 - **Dimensions:** 
@@ -28,33 +32,22 @@ The instrument underwent rigorous validation:
 - **Data:** Anonymized datasets from pilot studies for replication and further research.
 - **Guides:** Instructions for implementing the CIE-U in different university contexts.
 
-## How to Contribute
-This repository is open-source to encourage collaboration and innovation. Contributions are welcome to:
-1. Improve the questionnaire for diverse educational settings.
-2. Translate and adapt the instrument for other languages or contexts.
-3. Conduct further research on educational inclusion using the CIE-U.
-
-To contribute, please:
-- Fork this repository.
-- Submit a pull request with your changes.
-- Include detailed descriptions of your modifications.
-
 ## Future Directions
-- Publication of additional validation results in 2024.
+- Publication of additional validation results in 2025.
 - Development of user-friendly dashboards for reporting findings.
 - Integration of AI tools for data visualization and advanced psychometric analysis.
 
 ## License
-This project is licensed under [LICENSE_NAME] to ensure accessibility while protecting intellectual property.
+This project is licensed under two licenses:
+- **MIT License**: Applies to the code and software components. See [LICENSE.txt](LICENSE.txt).
+- **Creative Commons Attribution 4.0 (CC BY 4.0)**: Applies to written content, visuals, and educational materials. See [CC_BY_4.0_LICENSE.txt](CC_BY_4.0_LICENSE.txt).
 
 ## Acknowledgments
-We thank:
+I thank:
 - Dr. Ligia Patricia Oviedo Gasparico (Principal Investigator)
-- The Universidad Rafael Landívar research team
-- The Centre for Canadian Language Benchmarks for their foundational work
 - UNESCO for supporting educational inclusion initiatives
 
 ## Contact
 For inquiries or feedback, please contact:
-- **Principal Investigator:** [Contact Email]
-- **GitHub Repository Maintainer:** [Maintainer Name and Email]
+- **Principal Investigator:** Dr. Ligia Oviedo Gasparico lpoviedogasparico@gmail.com
+- **GitHub Repository Maintainer:** Dr. Viviane Yvette Bolaños Gramajo vivianebolanos@gmail.com
