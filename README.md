@@ -39,7 +39,7 @@ We share this work openly to support learning, collaboration, and responsible in
 
 ## License
 This project is licensed under two licenses:
-- **MIT License**: Applies to the code and software components. See [LICENSE.txt](LICENSE.txt).
+- **MIT License**: Applies to the code and software components. See [LICENSE (1).txt](LICENSE (1).txt).
 - **Creative Commons Attribution 4.0 (CC BY 4.0)**: Applies to written content, visuals, and educational materials. See [CC_BY_4.0_LICENSE.txt](CC_BY_4.0_LICENSE.txt).
 
 ## Acknowledgments
