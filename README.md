@@ -39,8 +39,8 @@ We share this work openly to support learning, collaboration, and responsible in
 
 ## License
 This project is licensed under two licenses:
-- **MIT License** – for code and software components. See `LICENSE.txt`.  
-- **Creative Commons Attribution 4.0 International (CC BY 4.0)** – for written content, visuals, and educational materials. See `CC_BY_4.0_LICENSE.txt`.
+- **MIT License**: Applies to the code and software components. See [LICENSE.txt](LICENSE.txt).
+- **Creative Commons Attribution 4.0 (CC BY 4.0)**: Applies to written content, visuals, and educational materials. See [CC_BY_4.0_LICENSE.txt](CC_BY_4.0_LICENSE.txt).
 
 ## Acknowledgments
 - Dr. Ligia Patricia Oviedo Gasparico (Principal Investigator)  
